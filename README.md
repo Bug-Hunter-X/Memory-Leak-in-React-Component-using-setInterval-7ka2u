@@ -1,0 +1,2 @@
+# React setInterval Memory Leak
+This repository demonstrates a common mistake when using the `setInterval` function within a React component's `useEffect` hook, leading to a memory leak.  The solution provides the correct implementation to prevent memory leaks.
